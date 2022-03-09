@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M4rwolfM4rwolf
 - 👀 I’m interested in Data & Tech, Neurosciences, Medias
 - 🌱 I’m currently learning in the domains above (duh)
-- 💞️ I’m looking to collaborate on Tech Recruitment (Promise, I am here to collaborate not to bother!)
+- 💞️ I’m looking to collaborate on Tech Recruitment (promise, I am here to collaborate not to bother!)
 - 📫 How to reach me marlenecourtiol.pro@gmail.com
 
 <!---
